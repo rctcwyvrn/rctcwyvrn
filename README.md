@@ -7,7 +7,7 @@ Hi I'm Lily
 Currently looking for work on interesting problems relating to programming languages, security, compilers, or cryptography
 
 # Work samples
-- A bugfix PR: https://github.com/apple/swift-experimental-string-processing/pull/560
+- Issue triaging and the bug fixing PR: https://github.com/apple/swift-experimental-string-processing/issues/558 https://github.com/apple/swift-experimental-string-processing/pull/560
 - A feature PR: https://github.com/apple/swift-experimental-string-processing/pull/577
 
 # Writing
