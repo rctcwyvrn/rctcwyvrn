@@ -6,6 +6,14 @@ Hi I'm Lily
 
 Currently looking for work on interesting problems relating to programming languages, security, compilers, or cryptography
 
+# Work samples
+- A bugfix PR: https://github.com/apple/swift-experimental-string-processing/pull/560
+- A feature PR: https://github.com/apple/swift-experimental-string-processing/pull/577
+
+# Writing
+- [CTF challenge writeups](https://maplebacon.org/authors/rctcwyvrn/), writeups for some of the CTF challenges I've solved
+- [Cryptography resources](https://crypto.maplebacon.org/), a work in progress resource for helping beginners get into cryptography
+
 # Projects
 
 I have many many silly projects
@@ -15,10 +23,6 @@ I have many many silly projects
 - [queens](https://github.com/rctcwyvrn/queens), a whole bunch of really really dumb AI players for the Amazons board game, based on this tom7 video https://www.youtube.com/watch?v=DpXy041BIlA 
 - [rust-fractran](https://github.com/rctcwyvrn/rust-fractran), did you know that fractions are Turing complete? Watch me compute prime numbers using them 
 - [rop-fk](https://github.com/rctcwyvrn/rop-fk), using return oriented programming to make a bf interpreter
-
-## Writing
-- [CTF challenge writeups](https://maplebacon.org/authors/rctcwyvrn/)
-- [Cryptography resources](https://crypto.maplebacon.org/)
 
 ## Cryptography projects
 - [blake3](https://github.com/rctcwyvrn/blake3), a simple implementation of the blake3 hash function in pure java
