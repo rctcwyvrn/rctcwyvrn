@@ -16,6 +16,10 @@ I have many many silly projects
 - [rust-fractran](https://github.com/rctcwyvrn/rust-fractran), did you know that fractions are Turing complete? Watch me compute prime numbers using them 
 - [rop-fk](https://github.com/rctcwyvrn/rop-fk), using return oriented programming to make a bf interpreter
 
+## Writing
+- [CTF challenge writeups](https://maplebacon.org/authors/rctcwyvrn/)
+- [Cryptography resources](https://crypto.maplebacon.org/)
+
 ## Cryptography projects
 - [blake3](https://github.com/rctcwyvrn/blake3), a simple implementation of the blake3 hash function in pure java
 - [py_hash_sigs](https://github.com/rctcwyvrn/py_hash_sigs), while on a flight I implemented some hash based signature schemes, which are very cool (and going to be standardized in the post quantum nist competition! See SPHINCS)
@@ -29,7 +33,3 @@ I have many many silly projects
 - [YAOPD](https://github.com/rctcwyvrn/YAOPD), a generator for obfuscated malicious powershell scripts. Originally to be part of a machine learning deobfuscation project but my partner ditched me
 - [py_spec](https://github.com/rctcwyvrn/py_spec). You know those circular audio waveform things? I wanted a script that could generate those for me so I wrote one. It works _ok_
 - [python-bees](https://github.com/rctcwyvrn/python-bees), a `python` implementation of the `Artificial Bee Colony` algoirthm, which is this weird meta-heuristic algorithm based on bee foraging patterns
-
-## Writing
-- [CTF challenge writeups](https://maplebacon.org/authors/rctcwyvrn/)
-- [Cryptography resources](https://crypto.maplebacon.org/)
