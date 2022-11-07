@@ -1,8 +1,10 @@
+# Portfolio
+
 Hi I'm Lily
 - UBC Combined major in CPSC and Math
 - 4.0 GPA, Stanley M Grant Scholarship in Mathematics, Bit Quill Technologies Award for Women in Computer Science
 - Exec and mentor for the UBC CTF team [Maple Bacon](https://maplebacon.org/authors/rctcwyvrn/)
-- Previously at Apple and the Canadian Centre for Cybersecurity
+- Previously Swift standard library @ Apple and Software dev @ Canadian Centre for Cybersecurity
 
 Currently looking for work on interesting problems relating to programming languages, security, compilers, or cryptography
 
