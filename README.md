@@ -20,6 +20,8 @@ Currently looking for work on interesting problems relating to programming langu
 
 I have many many silly projects
 
+[![Lily's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rctcwyvrn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Personal highlights
 - [rlox](https://github.com/rctcwyvrn/rlox), A `rust` bytecode compiler and VM for the `Lox` language
 - [queens](https://github.com/rctcwyvrn/queens), a whole bunch of really really dumb AI players for the Amazons board game, based on this tom7 video https://www.youtube.com/watch?v=DpXy041BIlA 
