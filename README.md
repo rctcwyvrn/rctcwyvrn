@@ -43,8 +43,6 @@ I have many many silly projects
 
 ## Other stuff
 - [jlox](https://github.com/rctcwyvrn/jlox): A `java` tree walk interpreter for `Lox`
-
-<a rel="me" href="https://hachyderm.io/@rctcwyvrn"></a>
 - [minecraft_api](https://github.com/rctcwyvrn/minecraft_api), we wanted an api to connect our minecraft server messages to a discord bot, so I wrote this little `rust` project
 - [advent](https://github.com/rctcwyvrn/advent), some Advent of Code solutions, a few of these got in the daily top 100 placings!
 - [sudoku](https://github.com/rctcwyvrn/sudoku), a little `haskell` project, just a simple backtracking sudoku solver
