@@ -29,14 +29,17 @@ I have many many silly projects
 [![Lily's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rctcwyvrn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal highlights
-- **hyperspeed** (private repo for now), a computing stack built entirely from scratch: an explicitly parallel ISA with no interlocks, caches, or interrupts, a pure ML-typed dataflow language, a compiler that emits each program's exact cycle cost as a compile-time artifact, and a unikernel whose task topology is fixed at build time. The most ambitious thing I've attempted to make. **Work in progress**
-- [infernal-fpga](https://github.com/rctcwyvrn/infernal-fpga), FPGA acceleration of Infernal's RNA covariance model search, written in `Hardcaml (OCaml)` for AWS F1. A systolic array design that generates synthesizable SystemVerilog. **Incomplete**
 - [rlox](https://github.com/rctcwyvrn/rlox), a `rust` bytecode compiler and VM for the `Lox` language, optimized to roughly 2x faster across almost all benchmarks and fuzzed with cargo-fuzz
 - A Racket to x86 compiler (CPSC 411), a full nanopass compiler written in a team of three. Macro expansion, register allocation, closure conversion, tagged data, and heap objects
 - [tal-inference](https://github.com/rctcwyvrn/tal-inference), type inference on an assembly subset. It _kinda_ works.
 - [rop-fk](https://github.com/rctcwyvrn/rop-fk), using return oriented programming to make a bf interpreter
 - [queens](https://github.com/rctcwyvrn/queens), a whole bunch of really really dumb AI players for the Amazons board game, based on this tom7 video https://www.youtube.com/watch?v=DpXy041BIlA
 - [rust-fractran](https://github.com/rctcwyvrn/rust-fractran), did you know that fractions are Turing complete? Watch me compute prime numbers using them
+
+## LLM assisted projects
+- [infernal-fpga](https://github.com/rctcwyvrn/infernal-fpga), FPGA acceleration of Infernal's RNA covariance model search, written in `Hardcaml (OCaml)` for AWS F1. A systolic array design that generates synthesizable SystemVerilog. **Incomplete**
+- [momentum], a combat robot modelled in OpenSCAD by agents
+- [AIRFUEL], a Godot shooter with extremely fast movement
 
 ## Cryptography projects
 - [blake3](https://github.com/rctcwyvrn/blake3), an implementation of the blake3 hash function in pure java, published to Maven Central and used by Jacksum, keri-java, and riv-benchmark
