@@ -38,8 +38,8 @@ I have many many silly projects
 
 ## LLM assisted projects
 - [infernal-fpga](https://github.com/rctcwyvrn/infernal-fpga), FPGA acceleration of Infernal's RNA covariance model search, written in `Hardcaml (OCaml)` for AWS F1. A systolic array design that generates synthesizable SystemVerilog. **Incomplete**
-- [momentum], a combat robot modelled in OpenSCAD by agents
-- [AIRFUEL], a Godot shooter with extremely fast movement
+- `momentum`, a combat robot modelled in OpenSCAD by agents
+- [AIRFUEL](https://github.com/rctcwyvrn/AIRFUEL), a Godot shooter with extremely fast movement
 
 ## Cryptography projects
 - [blake3](https://github.com/rctcwyvrn/blake3), an implementation of the blake3 hash function in pure java, published to Maven Central and used by Jacksum, keri-java, and riv-benchmark
